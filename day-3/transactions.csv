@@ -1,0 +1,1205 @@
+customer_id,name,region,quarter,number_of_purchases,total_transaction_amount
+CUST00001,David Schwartz,Kelantan,Q1-2025,24,14762.51
+CUST00001,David Schwartz,Kelantan,Q2-2025,21,5744.74
+CUST00001,David Schwartz,Kelantan,Q3-2025,14,14654.86
+CUST00001,,Kelantan,Q4-2025,23,991.57
+CUST00002,Michelle Perez,Negeri Sembilan,Q1-2025,11,1558.18
+CUST00002,Michelle Perez,,Q2-2025,4,2487.52
+CUST00002,Michelle Perez,Negeri Sembilan,Q3-2025,2,11744.6
+CUST00002,Michelle Perez,Negeri Sembilan,Q4-2025,7,12227.55
+CUST00003,James Joseph,Kedah,Q1-2025,19,10805.19
+CUST00003,James Joseph,Kedah,Q2-2025,19,7092.95
+CUST00003,James Joseph,Kedah,Q3-2025,10,243.42
+CUST00003,James Joseph,Kedah,Q4-2025,24,826.61
+CUST00004,Karen Williams,Terengganu,Q1-2025,19,
+CUST00004,Karen Williams,Terengganu,Q2-2025,7,5698.96
+CUST00004,,Terengganu,Q3-2025,5,14410.61
+CUST00004,Karen Williams,Terengganu,Q4-2025,11,1852.3
+CUST00005,Misty Velazquez,Johor,Q1-2025,9,7449.33
+CUST00005,Misty Velazquez,,Q2-2025,19,764.96
+CUST00005,Misty Velazquez,Johor,Q3-2025,17,10968.25
+CUST00005,Misty Velazquez,Johor,Q4-2025,23,4465.32
+CUST00006,Melissa Carey,Melaka,Q1-2025,14,10098.05
+CUST00006,Melissa Carey,Melaka,Q2-2025,,1500.3
+CUST00006,Melissa Carey,Melaka,Q3-2025,20,11403.12
+CUST00006,Melissa Carey,,Q4-2025,13,9916.54
+CUST00007,,Kelantan,Q1-2025,22,110.01
+CUST00007,Justin Castillo,Kelantan,Q2-2025,20,8821.36
+CUST00007,Justin Castillo,Kelantan,Q3-2025,18,11661.2
+CUST00007,Justin Castillo,Kelantan,Q4-2025,19,10281.2
+CUST00008,Jamie Cameron,Labuan,Q1-2025,12,4603.13
+CUST00008,Jamie Cameron,Labuan,Q2-2025,0,13755.88
+CUST00008,Jamie Cameron,Labuan,Q3-2025,14,14224.07
+CUST00008,Jamie Cameron,Labuan,Q4-2025,15,13882.94
+CUST00009,Erika Gibson MD,Terengganu,Q1-2025,21,1357.63
+CUST00009,Erika Gibson MD,Terengganu,Q2-2025,23,13971
+CUST00009,Erika Gibson MD,Terengganu,Q3-2025,8,14276.26
+CUST00009,Erika Gibson MD,Terengganu,Q4-2025,23,11629.8
+CUST00010,Yvette Taylor,Kuala Lumpur,Q1-2025,2,11584.36
+CUST00010,Yvette Taylor,Kuala Lumpur,Q2-2025,25,7500.38
+CUST00010,Yvette Taylor,Kuala Lumpur,Q3-2025,25,8913.8
+CUST00010,Yvette Taylor,Kuala Lumpur,Q4-2025,24,
+CUST00011,Dale Boyd,Sabah,Q1-2025,11,10047.74
+CUST00011,Dale Boyd,Sabah,Q2-2025,14,8082.25
+CUST00011,Dale Boyd,,Q3-2025,0,272.28
+CUST00011,Dale Boyd,Sabah,Q4-2025,11,317.36
+CUST00012,,Selangor,Q1-2025,1,10216.01
+CUST00012,Judy Smith,Selangor,Q2-2025,7,5126.31
+CUST00012,Judy Smith,Selangor,Q3-2025,0,1109.6
+CUST00012,Judy Smith,Selangor,Q4-2025,16,4991.38
+CUST00013,Linda Lynch,Sabah,Q1-2025,3,9482.44
+CUST00013,Linda Lynch,Sabah,Q2-2025,16,2560.17
+CUST00013,Linda Lynch,Sabah,Q3-2025,25,7122.08
+CUST00013,Linda Lynch,Sabah,Q4-2025,14,13592.5
+CUST00014,James Allison,Penang,Q1-2025,19,6214.29
+CUST00014,James Allison,Penang,Q2-2025,6,7630.07
+CUST00014,James Allison,Penang,Q3-2025,6,8680.22
+CUST00014,James Allison,Penang,Q4-2025,11,11226.53
+CUST00015,Antonio Escobar,Kelantan,Q1-2025,,14501.64
+CUST00015,Antonio Escobar,Kelantan,Q2-2025,1,10693.83
+CUST00015,Antonio Escobar,Kelantan,Q3-2025,10,6165.25
+CUST00015,Antonio Escobar,Kelantan,Q4-2025,5,
+CUST00016,Deborah Serrano,Perak,Q1-2025,17,11013.37
+CUST00016,,Perak,Q2-2025,20,1800.18
+CUST00016,Deborah Serrano,Perak,Q3-2025,16,14422.08
+CUST00016,Deborah Serrano,,Q4-2025,15,4573.76
+CUST00017,Gregory Chavez,Perlis,Q1-2025,16,6679.18
+CUST00017,Gregory Chavez,Perlis,Q2-2025,13,3194.1
+CUST00017,Gregory Chavez,Perlis,Q3-2025,24,9737.16
+CUST00017,Gregory Chavez,Perlis,Q4-2025,23,847.04
+CUST00018,Linda King,Melaka,Q1-2025,20,6462.86
+CUST00018,Linda King,Melaka,Q2-2025,25,14764.24
+CUST00018,Linda King,Melaka,Q3-2025,9,12090.95
+CUST00018,Linda King,Melaka,Q4-2025,10,4513.09
+CUST00019,Jonathan Hernandez,Sabah,Q1-2025,11,14696.64
+CUST00019,Jonathan Hernandez,Sabah,Q2-2025,22,4258.48
+CUST00019,Jonathan Hernandez,Sabah,Q3-2025,1,10984.4
+CUST00019,Jonathan Hernandez,Sabah,Q4-2025,15,5948.23
+CUST00020,Mrs. Rachael Rogers,Terengganu,Q1-2025,12,8424.54
+CUST00020,Mrs. Rachael Rogers,Terengganu,Q2-2025,13,12207.26
+CUST00020,Mrs. Rachael Rogers,Terengganu,Q3-2025,8,
+CUST00020,Mrs. Rachael Rogers,Terengganu,Q4-2025,1,14397.54
+CUST00021,Jesse Huang,Terengganu,Q1-2025,15,6273.45
+CUST00021,Jesse Huang,Terengganu,Q2-2025,21,12842.73
+CUST00021,Jesse Huang,Terengganu,Q3-2025,10,12564.11
+CUST00021,Jesse Huang,Terengganu,Q4-2025,4,
+CUST00022,Dylan Carter,Terengganu,Q1-2025,25,7978.92
+CUST00022,Dylan Carter,Terengganu,Q2-2025,6,2181.45
+CUST00022,Dylan Carter,Terengganu,Q3-2025,13,1963.77
+CUST00022,Dylan Carter,Terengganu,Q4-2025,1,
+CUST00023,Kelly Davis,Selangor,Q1-2025,5,5737.36
+CUST00023,Kelly Davis,Selangor,Q2-2025,4,3594.5
+CUST00023,Kelly Davis,Selangor,Q3-2025,13,8724.41
+CUST00023,Kelly Davis,Selangor,Q4-2025,12,6126.52
+CUST00024,Bobby Thornton,Kelantan,Q1-2025,7,13703.73
+CUST00024,Bobby Thornton,Kelantan,Q2-2025,1,10304.54
+CUST00024,Bobby Thornton,Kelantan,Q3-2025,13,
+CUST00024,Bobby Thornton,Kelantan,Q4-2025,,4927.13
+CUST00025,Michelle Walker,Negeri Sembilan,Q1-2025,6,5234.97
+CUST00025,Michelle Walker,,Q2-2025,15,1945.07
+CUST00025,Michelle Walker,Negeri Sembilan,Q3-2025,25,13222.8
+CUST00025,Michelle Walker,Negeri Sembilan,Q4-2025,19,3180.09
+CUST00026,James Roth,Kedah,Q1-2025,24,1869.6
+CUST00026,James Roth,Kedah,Q2-2025,,14791.09
+CUST00026,,Kedah,Q3-2025,24,12283.05
+CUST00026,James Roth,Kedah,Q4-2025,6,9283.22
+CUST00027,Stephanie Hernandez,Kuala Lumpur,Q1-2025,12,13934.34
+CUST00027,Stephanie Hernandez,Kuala Lumpur,Q2-2025,10,11719.32
+CUST00027,Stephanie Hernandez,Kuala Lumpur,Q3-2025,7,14123.35
+CUST00027,Stephanie Hernandez,Kuala Lumpur,Q4-2025,12,3147.8
+CUST00028,Michael Watts MD,Perak,Q1-2025,3,1286.7
+CUST00028,Michael Watts MD,Perak,Q2-2025,0,6233.6
+CUST00028,Michael Watts MD,Perak,Q3-2025,3,4473.01
+CUST00028,Michael Watts MD,Perak,Q4-2025,21,2848.22
+CUST00029,Stephen Frank,Negeri Sembilan,Q1-2025,13,2118.87
+CUST00029,Stephen Frank,Negeri Sembilan,Q2-2025,0,2962.55
+CUST00029,Stephen Frank,Negeri Sembilan,Q3-2025,1,13477.56
+CUST00029,Stephen Frank,Negeri Sembilan,Q4-2025,25,13028
+CUST00030,Shannon Madden,Penang,Q1-2025,23,253.93
+CUST00030,Shannon Madden,Penang,Q2-2025,13,6191.15
+CUST00030,Shannon Madden,Penang,Q3-2025,25,14521.63
+CUST00030,Shannon Madden,Penang,Q4-2025,16,7073.21
+CUST00031,Samantha Hunter,Perak,Q1-2025,24,1024.42
+CUST00031,Samantha Hunter,Perak,Q2-2025,2,13540.9
+CUST00031,Samantha Hunter,Perak,Q3-2025,12,12653.45
+CUST00031,Samantha Hunter,Perak,Q4-2025,25,3072.19
+CUST00032,Jaime Cardenas,Pahang,Q1-2025,14,511.1
+CUST00032,Jaime Cardenas,Pahang,Q2-2025,15,13858.58
+CUST00032,Jaime Cardenas,Pahang,Q3-2025,,
+CUST00032,Jaime Cardenas,,Q4-2025,20,8998.9
+CUST00033,Jake Butler,Melaka,Q1-2025,17,14673.19
+CUST00033,Jake Butler,Melaka,Q2-2025,21,8643.39
+CUST00033,Jake Butler,Melaka,Q3-2025,14,11075.74
+CUST00033,Jake Butler,Melaka,Q4-2025,8,11315.74
+CUST00034,,Johor,Q1-2025,6,3434.22
+CUST00034,Jose King,Johor,Q2-2025,14,3693.07
+CUST00034,Jose King,Johor,Q3-2025,10,9300.08
+CUST00034,Jose King,Johor,Q4-2025,23,10545.82
+CUST00035,Courtney Patterson,Melaka,Q1-2025,23,8104.77
+CUST00035,Courtney Patterson,Melaka,Q2-2025,10,13810.9
+CUST00035,Courtney Patterson,Melaka,Q3-2025,2,10135.07
+CUST00035,Courtney Patterson,Melaka,Q4-2025,0,
+CUST00036,Kayla Murphy PhD,Melaka,Q1-2025,22,3100.86
+CUST00036,Kayla Murphy PhD,Melaka,Q2-2025,8,1705.92
+CUST00036,Kayla Murphy PhD,Melaka,Q3-2025,10,3186.41
+CUST00036,Kayla Murphy PhD,Melaka,Q4-2025,25,1464.87
+CUST00037,Kelly Chavez,,Q1-2025,8,13045.65
+CUST00037,Kelly Chavez,,Q2-2025,11,6004.23
+CUST00037,Kelly Chavez,Johor,Q3-2025,8,
+CUST00037,Kelly Chavez,Johor,Q4-2025,9,10388.39
+CUST00038,Marcus Roberts,Melaka,Q1-2025,18,7910.63
+CUST00038,Marcus Roberts,Melaka,Q2-2025,6,10185.02
+CUST00038,Marcus Roberts,Melaka,Q3-2025,13,8035.13
+CUST00038,Marcus Roberts,Melaka,Q4-2025,22,13113.09
+CUST00039,Mary Lopez,Labuan,Q1-2025,19,3499.22
+CUST00039,Mary Lopez,Labuan,Q2-2025,2,8718.89
+CUST00039,,Labuan,Q3-2025,3,13073.22
+CUST00039,Mary Lopez,Labuan,Q4-2025,13,8367.96
+CUST00040,Christian Kelley,Sabah,Q1-2025,22,7314.45
+CUST00040,Christian Kelley,Sabah,Q2-2025,14,9742.92
+CUST00040,Christian Kelley,Sabah,Q3-2025,22,8880.78
+CUST00040,Christian Kelley,Sabah,Q4-2025,8,3414.76
+CUST00041,Francisco Fritz,Labuan,Q1-2025,12,9631.39
+CUST00041,Francisco Fritz,Labuan,Q2-2025,8,12813.45
+CUST00041,Francisco Fritz,Labuan,Q3-2025,21,
+CUST00041,Francisco Fritz,Labuan,Q4-2025,13,14433.89
+CUST00042,Jessica Stevens,Pahang,Q1-2025,,
+CUST00042,Jessica Stevens,Pahang,Q2-2025,2,4789.71
+CUST00042,Jessica Stevens,Pahang,Q3-2025,25,9755.74
+CUST00042,Jessica Stevens,Pahang,Q4-2025,9,12328.08
+CUST00043,Douglas Reyes Jr.,Putrajaya,Q1-2025,20,2.14
+CUST00043,Douglas Reyes Jr.,,Q2-2025,18,4982.47
+CUST00043,Douglas Reyes Jr.,,Q3-2025,24,10867.93
+CUST00043,Douglas Reyes Jr.,Putrajaya,Q4-2025,17,3822.49
+CUST00044,Nicole Dillon,Terengganu,Q1-2025,21,4052.89
+CUST00044,Nicole Dillon,Terengganu,Q2-2025,8,13012.21
+CUST00044,Nicole Dillon,Terengganu,Q3-2025,9,4397.23
+CUST00044,Nicole Dillon,Terengganu,Q4-2025,24,1297.78
+CUST00045,Karen Schaefer,Selangor,Q1-2025,5,10788.46
+CUST00045,Karen Schaefer,Selangor,Q2-2025,23,11652.17
+CUST00045,Karen Schaefer,Selangor,Q3-2025,0,2267.69
+CUST00045,Karen Schaefer,Selangor,Q4-2025,17,5278.54
+CUST00046,Angel Sanchez,Pahang,Q1-2025,25,1021.61
+CUST00046,Angel Sanchez,Pahang,Q2-2025,13,8848.51
+CUST00046,Angel Sanchez,Pahang,Q3-2025,10,4298.82
+CUST00046,Angel Sanchez,Pahang,Q4-2025,,12822.26
+CUST00047,Leslie Hess,Melaka,Q1-2025,11,
+CUST00047,Leslie Hess,Melaka,Q2-2025,4,7016.99
+CUST00047,Leslie Hess,Melaka,Q3-2025,,8087.45
+CUST00047,Leslie Hess,Melaka,Q4-2025,5,4056.94
+CUST00048,Jennifer Thompson,Johor,Q1-2025,20,2034.16
+CUST00048,Jennifer Thompson,Johor,Q2-2025,3,13501.68
+CUST00048,Jennifer Thompson,Johor,Q3-2025,21,11247.63
+CUST00048,Jennifer Thompson,Johor,Q4-2025,2,704.23
+CUST00049,David Buck,Melaka,Q1-2025,22,5933.82
+CUST00049,David Buck,Melaka,Q2-2025,15,5908.42
+CUST00049,,Melaka,Q3-2025,4,1976.01
+CUST00049,David Buck,Melaka,Q4-2025,0,12029.97
+CUST00050,Kevin Compton,Perlis,Q1-2025,,13019.06
+CUST00050,Kevin Compton,Perlis,Q2-2025,24,1706.19
+CUST00050,Kevin Compton,Perlis,Q3-2025,15,6771.21
+CUST00050,Kevin Compton,Perlis,Q4-2025,2,1708.78
+CUST00051,Justin Matthews,Kelantan,Q1-2025,,11104.07
+CUST00051,Justin Matthews,Kelantan,Q2-2025,1,10969.29
+CUST00051,Justin Matthews,Kelantan,Q3-2025,17,11108.22
+CUST00051,Justin Matthews,Kelantan,Q4-2025,2,9308.02
+CUST00052,James Rubio,Kuala Lumpur,Q1-2025,18,9040.64
+CUST00052,James Rubio,Kuala Lumpur,Q2-2025,9,8695.27
+CUST00052,James Rubio,Kuala Lumpur,Q3-2025,6,11546.89
+CUST00052,James Rubio,Kuala Lumpur,Q4-2025,23,5147.4
+CUST00053,,Pahang,Q1-2025,18,12465.96
+CUST00053,Travis Kelly,Pahang,Q2-2025,16,5120.75
+CUST00053,Travis Kelly,Pahang,Q3-2025,24,14791.66
+CUST00053,Travis Kelly,Pahang,Q4-2025,10,13663.83
+CUST00054,Carolyn Graves DVM,Negeri Sembilan,Q1-2025,23,6296.35
+CUST00054,Carolyn Graves DVM,Negeri Sembilan,Q2-2025,15,966.34
+CUST00054,Carolyn Graves DVM,Negeri Sembilan,Q3-2025,15,3761.56
+CUST00054,Carolyn Graves DVM,Negeri Sembilan,Q4-2025,25,706
+CUST00055,David Rivera,Johor,Q1-2025,10,4021.73
+CUST00055,David Rivera,,Q2-2025,1,4258.33
+CUST00055,David Rivera,Johor,Q3-2025,1,9050.98
+CUST00055,David Rivera,,Q4-2025,9,8259.64
+CUST00056,Nicole Morrison,Pahang,Q1-2025,23,3738.07
+CUST00056,Nicole Morrison,Pahang,Q2-2025,4,11879
+CUST00056,Nicole Morrison,Pahang,Q3-2025,2,10502.64
+CUST00056,Nicole Morrison,Pahang,Q4-2025,13,11909.03
+CUST00057,Rhonda Ramirez,Sarawak,Q1-2025,13,459.59
+CUST00057,Rhonda Ramirez,Sarawak,Q2-2025,6,6097.66
+CUST00057,Rhonda Ramirez,Sarawak,Q3-2025,11,2411.69
+CUST00057,Rhonda Ramirez,Sarawak,Q4-2025,24,2968.47
+CUST00058,Henry Foley,Perak,Q1-2025,3,516.62
+CUST00058,Henry Foley,Perak,Q2-2025,25,12406.59
+CUST00058,Henry Foley,Perak,Q3-2025,7,4306.84
+CUST00058,Henry Foley,Perak,Q4-2025,7,4591.49
+CUST00059,Valerie Thompson,Melaka,Q1-2025,13,9780.39
+CUST00059,Valerie Thompson,Melaka,Q2-2025,25,2640.99
+CUST00059,Valerie Thompson,Melaka,Q3-2025,18,
+CUST00059,Valerie Thompson,Melaka,Q4-2025,9,620.99
+CUST00060,Lori Henderson,Terengganu,Q1-2025,24,4330.32
+CUST00060,Lori Henderson,Terengganu,Q2-2025,24,10683.76
+CUST00060,Lori Henderson,Terengganu,Q3-2025,,6725.07
+CUST00060,Lori Henderson,Terengganu,Q4-2025,11,14781.22
+CUST00061,Amy Brennan,,Q1-2025,12,12056.9
+CUST00061,Amy Brennan,Perak,Q2-2025,14,7356.26
+CUST00061,Amy Brennan,Perak,Q3-2025,2,5622.32
+CUST00061,Amy Brennan,Perak,Q4-2025,18,
+CUST00062,Karen Flynn,Putrajaya,Q1-2025,14,2509.07
+CUST00062,Karen Flynn,Putrajaya,Q2-2025,6,6757.38
+CUST00062,Karen Flynn,Putrajaya,Q3-2025,21,402.9
+CUST00062,Karen Flynn,Putrajaya,Q4-2025,10,2330.2
+CUST00063,Brandi Miller,Sarawak,Q1-2025,0,7088.54
+CUST00063,,Sarawak,Q2-2025,5,8606.48
+CUST00063,Brandi Miller,Sarawak,Q3-2025,0,1814.08
+CUST00063,,Sarawak,Q4-2025,22,5520.74
+CUST00064,William Jenkins,,Q1-2025,23,10224.04
+CUST00064,William Jenkins,Perak,Q2-2025,,9498.44
+CUST00064,William Jenkins,,Q3-2025,1,14529.42
+CUST00064,William Jenkins,Perak,Q4-2025,20,10201.65
+CUST00065,Jason Soto,Putrajaya,Q1-2025,11,13891.46
+CUST00065,Jason Soto,Putrajaya,Q2-2025,5,10437.24
+CUST00065,Jason Soto,Putrajaya,Q3-2025,20,4360.98
+CUST00065,Jason Soto,Putrajaya,Q4-2025,5,7060.5
+CUST00066,Chad Munoz,Kelantan,Q1-2025,14,2295.1
+CUST00066,Chad Munoz,Kelantan,Q2-2025,9,11040.65
+CUST00066,Chad Munoz,Kelantan,Q3-2025,24,1954.65
+CUST00066,Chad Munoz,Kelantan,Q4-2025,,
+CUST00067,Steven Arnold,Labuan,Q1-2025,23,10534.83
+CUST00067,Steven Arnold,Labuan,Q2-2025,5,14652.9
+CUST00067,Steven Arnold,Labuan,Q3-2025,10,11700.48
+CUST00067,Steven Arnold,Labuan,Q4-2025,4,4292.3
+CUST00068,Donald Lewis,Selangor,Q1-2025,1,6975.28
+CUST00068,Donald Lewis,Selangor,Q2-2025,5,5679.95
+CUST00068,Donald Lewis,Selangor,Q3-2025,19,11382.53
+CUST00068,Donald Lewis,Selangor,Q4-2025,6,3952.37
+CUST00069,Dustin Smith,Kelantan,Q1-2025,9,
+CUST00069,Dustin Smith,Kelantan,Q2-2025,5,7792.75
+CUST00069,Dustin Smith,Kelantan,Q3-2025,25,9505.23
+CUST00069,Dustin Smith,Kelantan,Q4-2025,23,509.79
+CUST00070,Christopher Ray,Kuala Lumpur,Q1-2025,22,7008.89
+CUST00070,Christopher Ray,Kuala Lumpur,Q2-2025,6,13951.26
+CUST00070,Christopher Ray,,Q3-2025,20,184.76
+CUST00070,Christopher Ray,Kuala Lumpur,Q4-2025,9,8242.93
+CUST00071,James Hicks,Labuan,Q1-2025,22,9109.18
+CUST00071,James Hicks,Labuan,Q2-2025,25,2121
+CUST00071,James Hicks,Labuan,Q3-2025,5,3226.43
+CUST00071,James Hicks,Labuan,Q4-2025,6,8846.45
+CUST00072,John Green,Terengganu,Q1-2025,,1712.97
+CUST00072,John Green,Terengganu,Q2-2025,17,4315.25
+CUST00072,John Green,Terengganu,Q3-2025,1,8241.37
+CUST00072,John Green,Terengganu,Q4-2025,20,1640.59
+CUST00073,Sean Williams,Sabah,Q1-2025,15,11235.23
+CUST00073,Sean Williams,Sabah,Q2-2025,13,3947.49
+CUST00073,Sean Williams,Sabah,Q3-2025,20,4021.95
+CUST00073,Sean Williams,Sabah,Q4-2025,15,13232.83
+CUST00074,,Kelantan,Q1-2025,4,7965.79
+CUST00074,Roy Nelson,Kelantan,Q2-2025,18,12575.58
+CUST00074,Roy Nelson,Kelantan,Q3-2025,9,13318.63
+CUST00074,Roy Nelson,Kelantan,Q4-2025,22,887.54
+CUST00075,Catherine Edwards,Perak,Q1-2025,13,3623.46
+CUST00075,Catherine Edwards,Perak,Q2-2025,25,13759.88
+CUST00075,Catherine Edwards,Perak,Q3-2025,6,
+CUST00075,Catherine Edwards,Perak,Q4-2025,10,8179.66
+CUST00076,Daniel Thomas,Perak,Q1-2025,12,7926.92
+CUST00076,Daniel Thomas,Perak,Q2-2025,14,1295.95
+CUST00076,Daniel Thomas,Perak,Q3-2025,24,13318.83
+CUST00076,Daniel Thomas,Perak,Q4-2025,10,14852.26
+CUST00077,Renee Zimmerman,Penang,Q1-2025,19,9564.18
+CUST00077,Renee Zimmerman,,Q2-2025,22,11145.5
+CUST00077,Renee Zimmerman,Penang,Q3-2025,2,7624.47
+CUST00077,Renee Zimmerman,Penang,Q4-2025,3,9785.45
+CUST00078,Stanley Aguilar,Terengganu,Q1-2025,9,6353.59
+CUST00078,Stanley Aguilar,Terengganu,Q2-2025,2,2797.39
+CUST00078,Stanley Aguilar,Terengganu,Q3-2025,12,
+CUST00078,,Terengganu,Q4-2025,22,5650.21
+CUST00079,Leroy Savage,Penang,Q1-2025,,13656.8
+CUST00079,Leroy Savage,Penang,Q2-2025,11,12383.57
+CUST00079,Leroy Savage,Penang,Q3-2025,9,14602.63
+CUST00079,Leroy Savage,Penang,Q4-2025,14,10923.83
+CUST00080,,Johor,Q1-2025,3,4275.59
+CUST00080,Shirley Medina,Johor,Q2-2025,17,11024.53
+CUST00080,Shirley Medina,Johor,Q3-2025,5,13.6
+CUST00080,,Johor,Q4-2025,24,2872.2
+CUST00081,Jonathan Scott III,Negeri Sembilan,Q1-2025,19,9089.14
+CUST00081,Jonathan Scott III,Negeri Sembilan,Q2-2025,7,13199.51
+CUST00081,Jonathan Scott III,Negeri Sembilan,Q3-2025,,14620.39
+CUST00081,Jonathan Scott III,Negeri Sembilan,Q4-2025,25,13501.21
+CUST00082,Kimberly Singh,Sabah,Q1-2025,16,2951.3
+CUST00082,Kimberly Singh,Sabah,Q2-2025,4,2766.86
+CUST00082,Kimberly Singh,Sabah,Q3-2025,23,1410.5
+CUST00082,Kimberly Singh,Sabah,Q4-2025,20,10082.93
+CUST00083,Michael Hill,Sabah,Q1-2025,3,136.49
+CUST00083,Michael Hill,Sabah,Q2-2025,9,7634.39
+CUST00083,Michael Hill,Sabah,Q3-2025,1,1015.2
+CUST00083,Michael Hill,Sabah,Q4-2025,13,5860.55
+CUST00084,Raymond Elliott,Penang,Q1-2025,14,14066.1
+CUST00084,Raymond Elliott,Penang,Q2-2025,1,12035.88
+CUST00084,Raymond Elliott,Penang,Q3-2025,19,8801.2
+CUST00084,Raymond Elliott,Penang,Q4-2025,11,
+CUST00085,James Hernandez,Perlis,Q1-2025,16,7713.05
+CUST00085,James Hernandez,Perlis,Q2-2025,13,11395.87
+CUST00085,James Hernandez,Perlis,Q3-2025,19,4868.63
+CUST00085,James Hernandez,Perlis,Q4-2025,19,823.14
+CUST00086,Jeffrey Cox,Sabah,Q1-2025,25,11511.39
+CUST00086,Jeffrey Cox,Sabah,Q2-2025,25,10960.77
+CUST00086,Jeffrey Cox,,Q3-2025,15,10072.66
+CUST00086,Jeffrey Cox,Sabah,Q4-2025,17,8583.94
+CUST00087,Maria Bass,Sarawak,Q1-2025,15,12156.92
+CUST00087,,Sarawak,Q2-2025,22,4869.43
+CUST00087,Maria Bass,Sarawak,Q3-2025,17,6639.07
+CUST00087,Maria Bass,Sarawak,Q4-2025,21,2271.12
+CUST00088,Aaron Daugherty,,Q1-2025,13,6532.28
+CUST00088,Aaron Daugherty,Melaka,Q2-2025,20,3507.37
+CUST00088,Aaron Daugherty,Melaka,Q3-2025,4,792.83
+CUST00088,Aaron Daugherty,Melaka,Q4-2025,13,10337.07
+CUST00089,Christopher Ramirez,Labuan,Q1-2025,22,13903.97
+CUST00089,Christopher Ramirez,Labuan,Q2-2025,19,10858.08
+CUST00089,Christopher Ramirez,Labuan,Q3-2025,13,7689.97
+CUST00089,Christopher Ramirez,Labuan,Q4-2025,6,9288.96
+CUST00090,Jill Garcia,Selangor,Q1-2025,6,11056.53
+CUST00090,Jill Garcia,Selangor,Q2-2025,12,13205.59
+CUST00090,Jill Garcia,Selangor,Q3-2025,21,10038.86
+CUST00090,Jill Garcia,Selangor,Q4-2025,12,14726.54
+CUST00091,Jasmine Jimenez,Kedah,Q1-2025,,14788.1
+CUST00091,Jasmine Jimenez,Kedah,Q2-2025,,6227.76
+CUST00091,Jasmine Jimenez,,Q3-2025,20,9244
+CUST00091,Jasmine Jimenez,Kedah,Q4-2025,16,9014.9
+CUST00092,Kathy Welch,Perak,Q1-2025,9,12611.25
+CUST00092,Kathy Welch,Perak,Q2-2025,5,13561.24
+CUST00092,Kathy Welch,Perak,Q3-2025,15,2028.6
+CUST00092,Kathy Welch,Perak,Q4-2025,1,
+CUST00093,Wendy Gray,Perlis,Q1-2025,24,11126.37
+CUST00093,Wendy Gray,Perlis,Q2-2025,,1136.51
+CUST00093,Wendy Gray,Perlis,Q3-2025,24,2171.51
+CUST00093,Wendy Gray,Perlis,Q4-2025,,10701.73
+CUST00094,Dr. Jonathan Mcmahon DVM,Perlis,Q1-2025,9,5030.06
+CUST00094,Dr. Jonathan Mcmahon DVM,Perlis,Q2-2025,21,5354.94
+CUST00094,Dr. Jonathan Mcmahon DVM,Perlis,Q3-2025,1,12862.97
+CUST00094,Dr. Jonathan Mcmahon DVM,Perlis,Q4-2025,20,5081.71
+CUST00095,Adriana Johnson,Terengganu,Q1-2025,20,11077.07
+CUST00095,Adriana Johnson,Terengganu,Q2-2025,10,6323.16
+CUST00095,Adriana Johnson,Terengganu,Q3-2025,10,6050.8
+CUST00095,Adriana Johnson,Terengganu,Q4-2025,,11536.49
+CUST00096,Lawrence Humphrey,Penang,Q1-2025,10,495.02
+CUST00096,Lawrence Humphrey,Penang,Q2-2025,18,
+CUST00096,Lawrence Humphrey,,Q3-2025,2,10426.32
+CUST00096,Lawrence Humphrey,Penang,Q4-2025,7,
+CUST00097,Joel Barnes,Kedah,Q1-2025,18,4318.44
+CUST00097,Joel Barnes,Kedah,Q2-2025,7,8074.59
+CUST00097,Joel Barnes,Kedah,Q3-2025,19,3254.65
+CUST00097,Joel Barnes,Kedah,Q4-2025,25,6040.51
+CUST00098,Kayla Taylor,Selangor,Q1-2025,23,13618.52
+CUST00098,Kayla Taylor,Selangor,Q2-2025,8,6705.98
+CUST00098,Kayla Taylor,Selangor,Q3-2025,13,7382.85
+CUST00098,Kayla Taylor,Selangor,Q4-2025,23,10245.94
+CUST00099,Richard Walters,,Q1-2025,16,9592.8
+CUST00099,Richard Walters,Johor,Q2-2025,2,11483.33
+CUST00099,Richard Walters,Johor,Q3-2025,12,12546.74
+CUST00099,Richard Walters,Johor,Q4-2025,5,6850.95
+CUST00100,James Wright,Perak,Q1-2025,15,8659.43
+CUST00100,James Wright,Perak,Q2-2025,14,5977.5
+CUST00100,James Wright,Perak,Q3-2025,3,6450.25
+CUST00100,James Wright,Perak,Q4-2025,23,2237.66
+CUST00101,Trevor Leon,Labuan,Q1-2025,23,14650.78
+CUST00101,Trevor Leon,Labuan,Q2-2025,14,7459.57
+CUST00101,Trevor Leon,Labuan,Q3-2025,24,11298.91
+CUST00101,Trevor Leon,Labuan,Q4-2025,11,
+CUST00102,Robert Johnson,Labuan,Q1-2025,4,383.66
+CUST00102,Robert Johnson,Labuan,Q2-2025,0,8854.88
+CUST00102,Robert Johnson,Labuan,Q3-2025,0,1919.24
+CUST00102,Robert Johnson,Labuan,Q4-2025,2,3519.96
+CUST00103,Ashley Gates,Sabah,Q1-2025,9,
+CUST00103,Ashley Gates,Sabah,Q2-2025,12,11642.91
+CUST00103,Ashley Gates,Sabah,Q3-2025,16,
+CUST00103,,Sabah,Q4-2025,9,5693.36
+CUST00104,Savannah Sullivan,Terengganu,Q1-2025,3,8467.13
+CUST00104,Savannah Sullivan,Terengganu,Q2-2025,16,13275.14
+CUST00104,Savannah Sullivan,Terengganu,Q3-2025,5,11290.28
+CUST00104,Savannah Sullivan,Terengganu,Q4-2025,16,11162.42
+CUST00105,Mrs. Tanya Walker DDS,Sabah,Q1-2025,25,4986.25
+CUST00105,Mrs. Tanya Walker DDS,Sabah,Q2-2025,9,6859.45
+CUST00105,Mrs. Tanya Walker DDS,Sabah,Q3-2025,0,12473.09
+CUST00105,Mrs. Tanya Walker DDS,Sabah,Q4-2025,20,11653.45
+CUST00106,Tracy Robinson,Sarawak,Q1-2025,25,6878.99
+CUST00106,Tracy Robinson,Sarawak,Q2-2025,4,8275.43
+CUST00106,,Sarawak,Q3-2025,17,10535.23
+CUST00106,Tracy Robinson,Sarawak,Q4-2025,13,11288.82
+CUST00107,Tyler Walker,Pahang,Q1-2025,24,7140.93
+CUST00107,Tyler Walker,Pahang,Q2-2025,,4842.14
+CUST00107,Tyler Walker,Pahang,Q3-2025,4,3462.52
+CUST00107,Tyler Walker,Pahang,Q4-2025,5,8739.95
+CUST00108,Steven Craig,Sabah,Q1-2025,13,3510.5
+CUST00108,Steven Craig,Sabah,Q2-2025,14,8619.35
+CUST00108,Steven Craig,Sabah,Q3-2025,12,11230.83
+CUST00108,Steven Craig,Sabah,Q4-2025,15,9570.42
+CUST00109,Yvonne Higgins,Putrajaya,Q1-2025,20,11957.64
+CUST00109,Yvonne Higgins,Putrajaya,Q2-2025,7,14094.6
+CUST00109,Yvonne Higgins,Putrajaya,Q3-2025,12,6523.47
+CUST00109,Yvonne Higgins,Putrajaya,Q4-2025,0,7460.06
+CUST00110,Michael Burke,Terengganu,Q1-2025,11,8454.15
+CUST00110,Michael Burke,Terengganu,Q2-2025,16,622.29
+CUST00110,Michael Burke,Terengganu,Q3-2025,19,10516.81
+CUST00110,Michael Burke,Terengganu,Q4-2025,12,8206.9
+CUST00111,Brittany Gonzales,Penang,Q1-2025,2,864.22
+CUST00111,Brittany Gonzales,Penang,Q2-2025,16,5424.59
+CUST00111,Brittany Gonzales,Penang,Q3-2025,0,1995.88
+CUST00111,Brittany Gonzales,Penang,Q4-2025,11,12853.4
+CUST00112,Deborah Harris,Kelantan,Q1-2025,6,7968.03
+CUST00112,Deborah Harris,Kelantan,Q2-2025,24,6761.6
+CUST00112,Deborah Harris,Kelantan,Q3-2025,0,4903.87
+CUST00112,Deborah Harris,Kelantan,Q4-2025,6,7864.94
+CUST00113,Margaret Harris,Johor,Q1-2025,3,13934.61
+CUST00113,Margaret Harris,Johor,Q2-2025,15,2146.21
+CUST00113,Margaret Harris,Johor,Q3-2025,4,1208.44
+CUST00113,Margaret Harris,Johor,Q4-2025,1,8646.32
+CUST00114,Keith Garrison,Sabah,Q1-2025,21,6310.15
+CUST00114,Keith Garrison,Sabah,Q2-2025,13,12248.41
+CUST00114,Keith Garrison,Sabah,Q3-2025,6,9074.84
+CUST00114,Keith Garrison,Sabah,Q4-2025,16,5007.26
+CUST00115,Anita Serrano,Putrajaya,Q1-2025,13,14207.39
+CUST00115,Anita Serrano,Putrajaya,Q2-2025,,13874.52
+CUST00115,Anita Serrano,Putrajaya,Q3-2025,24,4481.55
+CUST00115,Anita Serrano,Putrajaya,Q4-2025,19,2847.79
+CUST00116,Shari Blake,Perak,Q1-2025,24,9285.19
+CUST00116,Shari Blake,Perak,Q2-2025,7,8398.24
+CUST00116,Shari Blake,Perak,Q3-2025,,2042.29
+CUST00116,Shari Blake,Perak,Q4-2025,1,3695.51
+CUST00117,Sara Duffy,Kedah,Q1-2025,19,8356.04
+CUST00117,Sara Duffy,Kedah,Q2-2025,23,6649.14
+CUST00117,Sara Duffy,Kedah,Q3-2025,15,13254.44
+CUST00117,Sara Duffy,Kedah,Q4-2025,23,1329.08
+CUST00118,Stephanie Hawkins,Putrajaya,Q1-2025,1,14346.85
+CUST00118,Stephanie Hawkins,Putrajaya,Q2-2025,13,
+CUST00118,Stephanie Hawkins,Putrajaya,Q3-2025,15,5908.6
+CUST00118,Stephanie Hawkins,Putrajaya,Q4-2025,18,14570.56
+CUST00119,Brittany Kane,Terengganu,Q1-2025,25,3062.68
+CUST00119,Brittany Kane,Terengganu,Q2-2025,4,
+CUST00119,Brittany Kane,Terengganu,Q3-2025,2,2579.81
+CUST00119,Brittany Kane,Terengganu,Q4-2025,16,5675.26
+CUST00120,Ronald Jackson,Selangor,Q1-2025,11,9014.45
+CUST00120,Ronald Jackson,Selangor,Q2-2025,12,13279.07
+CUST00120,Ronald Jackson,Selangor,Q3-2025,24,3235.08
+CUST00120,Ronald Jackson,Selangor,Q4-2025,25,
+CUST00121,Kelsey Martinez,Sabah,Q1-2025,25,13026.34
+CUST00121,Kelsey Martinez,Sabah,Q2-2025,13,6348.3
+CUST00121,Kelsey Martinez,Sabah,Q3-2025,17,1738.56
+CUST00121,Kelsey Martinez,Sabah,Q4-2025,19,3541.76
+CUST00122,Hunter House,Perlis,Q1-2025,4,13142.12
+CUST00122,Hunter House,Perlis,Q2-2025,15,
+CUST00122,Hunter House,Perlis,Q3-2025,6,4487.02
+CUST00122,Hunter House,Perlis,Q4-2025,12,9673.28
+CUST00123,Mr. James Williams,Kedah,Q1-2025,12,13416.43
+CUST00123,Mr. James Williams,,Q2-2025,21,3580.27
+CUST00123,Mr. James Williams,Kedah,Q3-2025,14,8531.29
+CUST00123,Mr. James Williams,Kedah,Q4-2025,4,11473.57
+CUST00124,Tina Shannon,Putrajaya,Q1-2025,2,11730.89
+CUST00124,Tina Shannon,Putrajaya,Q2-2025,2,785.58
+CUST00124,Tina Shannon,Putrajaya,Q3-2025,5,14469.13
+CUST00124,Tina Shannon,Putrajaya,Q4-2025,20,6856.95
+CUST00125,Kristina Kim,Melaka,Q1-2025,22,4748.65
+CUST00125,Kristina Kim,Melaka,Q2-2025,15,7476.25
+CUST00125,Kristina Kim,Melaka,Q3-2025,19,10825.84
+CUST00125,Kristina Kim,Melaka,Q4-2025,4,10945.07
+CUST00126,Alexander Hanna,Pahang,Q1-2025,19,7688.72
+CUST00126,Alexander Hanna,Pahang,Q2-2025,24,3395.75
+CUST00126,Alexander Hanna,Pahang,Q3-2025,10,4573.36
+CUST00126,Alexander Hanna,Pahang,Q4-2025,22,7942.57
+CUST00127,Brian Smith,Sabah,Q1-2025,19,7076.24
+CUST00127,Brian Smith,Sabah,Q2-2025,3,13111.82
+CUST00127,Brian Smith,Sabah,Q3-2025,2,5149.87
+CUST00127,Brian Smith,Sabah,Q4-2025,22,10919.19
+CUST00128,April Collins,Johor,Q1-2025,3,7845.36
+CUST00128,April Collins,,Q2-2025,17,189.32
+CUST00128,April Collins,Johor,Q3-2025,17,9602.45
+CUST00128,April Collins,Johor,Q4-2025,2,9083.92
+CUST00129,Barbara Sullivan,Kedah,Q1-2025,18,5833.29
+CUST00129,Barbara Sullivan,,Q2-2025,0,12330.39
+CUST00129,Barbara Sullivan,Kedah,Q3-2025,9,2025.42
+CUST00129,Barbara Sullivan,,Q4-2025,1,6298.28
+CUST00130,Daniel French,,Q1-2025,25,14502.4
+CUST00130,Daniel French,Melaka,Q2-2025,18,7516.18
+CUST00130,Daniel French,Melaka,Q3-2025,12,4000.3
+CUST00130,Daniel French,Melaka,Q4-2025,18,1893.86
+CUST00131,Jessica Conrad,Sarawak,Q1-2025,12,1983.23
+CUST00131,Jessica Conrad,Sarawak,Q2-2025,25,579.19
+CUST00131,Jessica Conrad,Sarawak,Q3-2025,1,2945.41
+CUST00131,Jessica Conrad,Sarawak,Q4-2025,11,6092.75
+CUST00132,Nicole Pearson,Sarawak,Q1-2025,25,12794.59
+CUST00132,Nicole Pearson,Sarawak,Q2-2025,8,2717.23
+CUST00132,Nicole Pearson,Sarawak,Q3-2025,13,5280.88
+CUST00132,Nicole Pearson,Sarawak,Q4-2025,23,10550.7
+CUST00133,Mr. Brian Hanna,Terengganu,Q1-2025,6,7310.26
+CUST00133,Mr. Brian Hanna,Terengganu,Q2-2025,3,2880.09
+CUST00133,Mr. Brian Hanna,Terengganu,Q3-2025,17,4976.04
+CUST00133,Mr. Brian Hanna,Terengganu,Q4-2025,20,8100.24
+CUST00134,Kathleen Simmons,Penang,Q1-2025,12,5365.53
+CUST00134,Kathleen Simmons,Penang,Q2-2025,2,6512.38
+CUST00134,Kathleen Simmons,Penang,Q3-2025,12,2985.66
+CUST00134,Kathleen Simmons,,Q4-2025,6,2320.18
+CUST00135,Sharon Warner,Selangor,Q1-2025,13,6630.68
+CUST00135,Sharon Warner,Selangor,Q2-2025,7,12207.37
+CUST00135,Sharon Warner,Selangor,Q3-2025,9,11503.22
+CUST00135,Sharon Warner,Selangor,Q4-2025,,12676.29
+CUST00136,Ashley Webb,Kuala Lumpur,Q1-2025,,
+CUST00136,Ashley Webb,Kuala Lumpur,Q2-2025,,9940.67
+CUST00136,Ashley Webb,Kuala Lumpur,Q3-2025,22,9596.77
+CUST00136,Ashley Webb,Kuala Lumpur,Q4-2025,15,5759.44
+CUST00137,,Perlis,Q1-2025,14,13503.58
+CUST00137,Melinda Smith,Perlis,Q2-2025,23,3396.64
+CUST00137,,Perlis,Q3-2025,23,12802.08
+CUST00137,Melinda Smith,Perlis,Q4-2025,0,2231.29
+CUST00138,Mr. Louis Jones,Kelantan,Q1-2025,12,3972.18
+CUST00138,,Kelantan,Q2-2025,7,4254.24
+CUST00138,,Kelantan,Q3-2025,9,13303.88
+CUST00138,Mr. Louis Jones,Kelantan,Q4-2025,18,12471.94
+CUST00139,Ronald Cunningham,Sabah,Q1-2025,1,12468.9
+CUST00139,Ronald Cunningham,Sabah,Q2-2025,7,14090.01
+CUST00139,Ronald Cunningham,Sabah,Q3-2025,20,11783.44
+CUST00139,Ronald Cunningham,Sabah,Q4-2025,4,7010.38
+CUST00140,Tanya Romero,Negeri Sembilan,Q1-2025,21,8593.18
+CUST00140,Tanya Romero,Negeri Sembilan,Q2-2025,7,2967.06
+CUST00140,Tanya Romero,,Q3-2025,21,7592.51
+CUST00140,Tanya Romero,Negeri Sembilan,Q4-2025,0,13696.87
+CUST00141,Jeffrey Lawrence,Melaka,Q1-2025,21,8543.54
+CUST00141,Jeffrey Lawrence,Melaka,Q2-2025,21,1291.71
+CUST00141,Jeffrey Lawrence,Melaka,Q3-2025,6,11054.9
+CUST00141,Jeffrey Lawrence,Melaka,Q4-2025,8,1455.92
+CUST00142,Kenneth Valencia,Putrajaya,Q1-2025,8,
+CUST00142,Kenneth Valencia,Putrajaya,Q2-2025,11,1368.3
+CUST00142,Kenneth Valencia,Putrajaya,Q3-2025,23,13448.91
+CUST00142,Kenneth Valencia,Putrajaya,Q4-2025,24,2244.34
+CUST00143,Gary Jensen,Perlis,Q1-2025,11,1613.07
+CUST00143,Gary Jensen,Perlis,Q2-2025,23,13194.62
+CUST00143,Gary Jensen,,Q3-2025,5,4810.78
+CUST00143,Gary Jensen,Perlis,Q4-2025,12,4756.69
+CUST00144,Tami Green,Sabah,Q1-2025,,9578.82
+CUST00144,Tami Green,Sabah,Q2-2025,12,2353.21
+CUST00144,Tami Green,Sabah,Q3-2025,17,13340.21
+CUST00144,Tami Green,Sabah,Q4-2025,15,10299.84
+CUST00145,Calvin Pierce,Penang,Q1-2025,5,7307.03
+CUST00145,Calvin Pierce,Penang,Q2-2025,25,14241.63
+CUST00145,Calvin Pierce,Penang,Q3-2025,4,10549.67
+CUST00145,Calvin Pierce,Penang,Q4-2025,22,8604.38
+CUST00146,Donald Hogan,Johor,Q1-2025,13,9008.54
+CUST00146,Donald Hogan,Johor,Q2-2025,25,2753.05
+CUST00146,Donald Hogan,Johor,Q3-2025,10,1864.81
+CUST00146,Donald Hogan,Johor,Q4-2025,15,10764.32
+CUST00147,Mario Owens,Terengganu,Q1-2025,6,
+CUST00147,Mario Owens,Terengganu,Q2-2025,25,3584.66
+CUST00147,Mario Owens,Terengganu,Q3-2025,15,1136.2
+CUST00147,Mario Owens,Terengganu,Q4-2025,23,10486.71
+CUST00148,Evan Ramsey,Sabah,Q1-2025,22,13319.97
+CUST00148,Evan Ramsey,Sabah,Q2-2025,13,
+CUST00148,Evan Ramsey,Sabah,Q3-2025,17,300.68
+CUST00148,Evan Ramsey,Sabah,Q4-2025,13,9075.81
+CUST00149,Meredith Cochran,Kedah,Q1-2025,7,6489.69
+CUST00149,Meredith Cochran,Kedah,Q2-2025,17,1085.2
+CUST00149,Meredith Cochran,Kedah,Q3-2025,16,6730.08
+CUST00149,Meredith Cochran,Kedah,Q4-2025,17,9057.91
+CUST00150,Holly Foster,Johor,Q1-2025,5,7925.21
+CUST00150,Holly Foster,Johor,Q2-2025,23,1413.99
+CUST00150,Holly Foster,Johor,Q3-2025,2,3758.43
+CUST00150,Holly Foster,Johor,Q4-2025,3,1858.91
+CUST00151,Christian Lewis,Selangor,Q1-2025,1,1899.66
+CUST00151,Christian Lewis,Selangor,Q2-2025,,8540.6
+CUST00151,Christian Lewis,Selangor,Q3-2025,23,422.04
+CUST00151,Christian Lewis,,Q4-2025,4,6002.72
+CUST00152,Barry Kennedy,Selangor,Q1-2025,14,3247.43
+CUST00152,Barry Kennedy,Selangor,Q2-2025,16,
+CUST00152,,Selangor,Q3-2025,24,11346.64
+CUST00152,Barry Kennedy,Selangor,Q4-2025,18,10456.63
+CUST00153,Crystal Park,Perlis,Q1-2025,,9674.9
+CUST00153,Crystal Park,Perlis,Q2-2025,12,14055.73
+CUST00153,Crystal Park,Perlis,Q3-2025,,10153.32
+CUST00153,Crystal Park,Perlis,Q4-2025,20,12433.45
+CUST00154,Tracey Russell DDS,Penang,Q1-2025,18,861.57
+CUST00154,Tracey Russell DDS,Penang,Q2-2025,3,4042.68
+CUST00154,Tracey Russell DDS,Penang,Q3-2025,9,4036.93
+CUST00154,Tracey Russell DDS,Penang,Q4-2025,8,13885.15
+CUST00155,,Perlis,Q1-2025,14,6016.43
+CUST00155,Anthony Ramirez,Perlis,Q2-2025,13,14794.03
+CUST00155,Anthony Ramirez,Perlis,Q3-2025,16,662.15
+CUST00155,Anthony Ramirez,Perlis,Q4-2025,7,5536.11
+CUST00156,Joseph Rodriguez,Terengganu,Q1-2025,16,673.11
+CUST00156,Joseph Rodriguez,Terengganu,Q2-2025,1,10145.16
+CUST00156,Joseph Rodriguez,Terengganu,Q3-2025,9,13028.7
+CUST00156,Joseph Rodriguez,Terengganu,Q4-2025,17,13908.08
+CUST00157,Christian James,Perak,Q1-2025,17,7839.03
+CUST00157,Christian James,Perak,Q2-2025,17,5679.45
+CUST00157,Christian James,Perak,Q3-2025,23,9396.17
+CUST00157,Christian James,Perak,Q4-2025,,13508.14
+CUST00158,Mr. Robert Clayton Jr.,Kuala Lumpur,Q1-2025,9,206.39
+CUST00158,Mr. Robert Clayton Jr.,Kuala Lumpur,Q2-2025,7,4810.42
+CUST00158,Mr. Robert Clayton Jr.,Kuala Lumpur,Q3-2025,18,426.69
+CUST00158,Mr. Robert Clayton Jr.,Kuala Lumpur,Q4-2025,5,6833.62
+CUST00159,Kimberly White,Johor,Q1-2025,22,13279.98
+CUST00159,Kimberly White,Johor,Q2-2025,17,
+CUST00159,Kimberly White,,Q3-2025,,1348.55
+CUST00159,Kimberly White,Johor,Q4-2025,0,9700.79
+CUST00160,Travis Miller,Johor,Q1-2025,,12675.28
+CUST00160,Travis Miller,Johor,Q2-2025,25,3266.16
+CUST00160,Travis Miller,Johor,Q3-2025,20,5492.48
+CUST00160,Travis Miller,Johor,Q4-2025,14,
+CUST00161,Robert Rich,Terengganu,Q1-2025,22,12658.23
+CUST00161,Robert Rich,Terengganu,Q2-2025,21,12194.75
+CUST00161,Robert Rich,Terengganu,Q3-2025,11,3602.71
+CUST00161,Robert Rich,Terengganu,Q4-2025,14,7002.88
+CUST00162,Jessica Moran,Penang,Q1-2025,3,906.85
+CUST00162,Jessica Moran,Penang,Q2-2025,20,5855.92
+CUST00162,Jessica Moran,Penang,Q3-2025,4,7044.88
+CUST00162,Jessica Moran,Penang,Q4-2025,15,11680.7
+CUST00163,Rachel Williams,Kedah,Q1-2025,9,12645.59
+CUST00163,Rachel Williams,Kedah,Q2-2025,,801.72
+CUST00163,Rachel Williams,Kedah,Q3-2025,19,2774.57
+CUST00163,Rachel Williams,Kedah,Q4-2025,21,969.53
+CUST00164,Samantha Thomas,Penang,Q1-2025,15,1350.11
+CUST00164,Samantha Thomas,Penang,Q2-2025,13,
+CUST00164,Samantha Thomas,,Q3-2025,20,14320.88
+CUST00164,Samantha Thomas,Penang,Q4-2025,3,11848.32
+CUST00165,Michael Lutz,Kedah,Q1-2025,20,9505.75
+CUST00165,Michael Lutz,Kedah,Q2-2025,15,2817.59
+CUST00165,Michael Lutz,Kedah,Q3-2025,10,13255.49
+CUST00165,Michael Lutz,Kedah,Q4-2025,16,10885.69
+CUST00166,Angela Johnson,Johor,Q1-2025,2,3293.54
+CUST00166,Angela Johnson,Johor,Q2-2025,9,13313.37
+CUST00166,Angela Johnson,Johor,Q3-2025,7,1040.33
+CUST00166,Angela Johnson,Johor,Q4-2025,4,3109.42
+CUST00167,Courtney Garcia,Negeri Sembilan,Q1-2025,15,10865.62
+CUST00167,Courtney Garcia,Negeri Sembilan,Q2-2025,22,3757.27
+CUST00167,Courtney Garcia,Negeri Sembilan,Q3-2025,13,3873.36
+CUST00167,Courtney Garcia,Negeri Sembilan,Q4-2025,10,14914.14
+CUST00168,Brian Shepard,Terengganu,Q1-2025,2,9749.91
+CUST00168,Brian Shepard,Terengganu,Q2-2025,19,1121.31
+CUST00168,Brian Shepard,Terengganu,Q3-2025,11,14259.2
+CUST00168,,Terengganu,Q4-2025,21,13706.08
+CUST00169,Tara Howard,Selangor,Q1-2025,3,5869.07
+CUST00169,Tara Howard,Selangor,Q2-2025,3,8349.92
+CUST00169,Tara Howard,Selangor,Q3-2025,25,13370.78
+CUST00169,Tara Howard,Selangor,Q4-2025,15,10160.88
+CUST00170,Hannah Nichols,Perlis,Q1-2025,22,8440.47
+CUST00170,,Perlis,Q2-2025,2,11726.77
+CUST00170,Hannah Nichols,Perlis,Q3-2025,21,6184.2
+CUST00170,Hannah Nichols,Perlis,Q4-2025,11,3739.65
+CUST00171,Kendra Marshall,Perak,Q1-2025,25,13756.11
+CUST00171,Kendra Marshall,Perak,Q2-2025,16,8008.51
+CUST00171,Kendra Marshall,Perak,Q3-2025,12,7424.52
+CUST00171,Kendra Marshall,,Q4-2025,7,1505.27
+CUST00172,Melinda Colon,Melaka,Q1-2025,8,424.16
+CUST00172,Melinda Colon,Melaka,Q2-2025,12,5740.74
+CUST00172,Melinda Colon,,Q3-2025,16,3716
+CUST00172,Melinda Colon,Melaka,Q4-2025,25,5148
+CUST00173,William Jenkins,Johor,Q1-2025,11,
+CUST00173,William Jenkins,Johor,Q2-2025,5,6652.89
+CUST00173,,,Q3-2025,19,6711.88
+CUST00173,William Jenkins,Johor,Q4-2025,,11583.26
+CUST00174,Douglas Jones,Perak,Q1-2025,18,5639.67
+CUST00174,Douglas Jones,Perak,Q2-2025,21,10808.23
+CUST00174,Douglas Jones,Perak,Q3-2025,,7843.53
+CUST00174,Douglas Jones,Perak,Q4-2025,19,6666.4
+CUST00175,Ralph Washington,Kelantan,Q1-2025,24,9644.93
+CUST00175,,Kelantan,Q2-2025,12,3415.24
+CUST00175,Ralph Washington,Kelantan,Q3-2025,22,2346.29
+CUST00175,Ralph Washington,Kelantan,Q4-2025,23,702.56
+CUST00176,Brooke Solomon,Negeri Sembilan,Q1-2025,21,6878.24
+CUST00176,Brooke Solomon,Negeri Sembilan,Q2-2025,18,10669.8
+CUST00176,Brooke Solomon,Negeri Sembilan,Q3-2025,7,10597.03
+CUST00176,Brooke Solomon,Negeri Sembilan,Q4-2025,8,9376.97
+CUST00177,Danielle Medina,Sarawak,Q1-2025,17,14139.23
+CUST00177,Danielle Medina,Sarawak,Q2-2025,9,9196.09
+CUST00177,,Sarawak,Q3-2025,,5474.63
+CUST00177,Danielle Medina,Sarawak,Q4-2025,10,4643.56
+CUST00178,David Taylor,Terengganu,Q1-2025,22,5566.74
+CUST00178,David Taylor,Terengganu,Q2-2025,9,12757.84
+CUST00178,David Taylor,Terengganu,Q3-2025,10,13370.52
+CUST00178,David Taylor,Terengganu,Q4-2025,4,7874.14
+CUST00179,Gregory Clark,Johor,Q1-2025,22,9321.07
+CUST00179,Gregory Clark,Johor,Q2-2025,10,4728.25
+CUST00179,Gregory Clark,Johor,Q3-2025,,209.31
+CUST00179,Gregory Clark,Johor,Q4-2025,0,6971.28
+CUST00180,,Kuala Lumpur,Q1-2025,19,3763.22
+CUST00180,Corey Henderson,Kuala Lumpur,Q2-2025,24,3490.67
+CUST00180,Corey Henderson,Kuala Lumpur,Q3-2025,9,49.37
+CUST00180,Corey Henderson,Kuala Lumpur,Q4-2025,14,14936.82
+CUST00181,James Carter,Terengganu,Q1-2025,22,2627.47
+CUST00181,James Carter,Terengganu,Q2-2025,11,53.5
+CUST00181,James Carter,Terengganu,Q3-2025,18,9607.01
+CUST00181,James Carter,Terengganu,Q4-2025,0,38.78
+CUST00182,Michael Archer,Johor,Q1-2025,,4131.83
+CUST00182,Michael Archer,Johor,Q2-2025,7,2556.46
+CUST00182,,Johor,Q3-2025,11,5819.74
+CUST00182,Michael Archer,Johor,Q4-2025,18,8005.56
+CUST00183,Kimberly Wilson,Penang,Q1-2025,5,2084.87
+CUST00183,Kimberly Wilson,Penang,Q2-2025,24,9632.79
+CUST00183,Kimberly Wilson,Penang,Q3-2025,12,5507.93
+CUST00183,Kimberly Wilson,Penang,Q4-2025,11,2276.07
+CUST00184,Alyssa Barton,Penang,Q1-2025,5,6760.32
+CUST00184,Alyssa Barton,,Q2-2025,8,9278.98
+CUST00184,Alyssa Barton,Penang,Q3-2025,11,13685.34
+CUST00184,Alyssa Barton,Penang,Q4-2025,3,5362.4
+CUST00185,Jeremy Cummings,Terengganu,Q1-2025,22,2605.05
+CUST00185,Jeremy Cummings,Terengganu,Q2-2025,9,6785.88
+CUST00185,Jeremy Cummings,Terengganu,Q3-2025,12,12488.13
+CUST00185,Jeremy Cummings,Terengganu,Q4-2025,19,13242.23
+CUST00186,James Matthews,Labuan,Q1-2025,9,9605.33
+CUST00186,James Matthews,Labuan,Q2-2025,7,14198.56
+CUST00186,James Matthews,Labuan,Q3-2025,,
+CUST00186,James Matthews,Labuan,Q4-2025,24,8294.52
+CUST00187,Stephen Solomon,Sarawak,Q1-2025,24,448.53
+CUST00187,Stephen Solomon,Sarawak,Q2-2025,5,9096.52
+CUST00187,Stephen Solomon,Sarawak,Q3-2025,17,11070.99
+CUST00187,Stephen Solomon,Sarawak,Q4-2025,12,472.89
+CUST00188,,,Q1-2025,19,11993.01
+CUST00188,Amy Bridges,Selangor,Q2-2025,11,4378.32
+CUST00188,Amy Bridges,Selangor,Q3-2025,25,12036.57
+CUST00188,Amy Bridges,Selangor,Q4-2025,22,6837.96
+CUST00189,Jennifer Johnson,Negeri Sembilan,Q1-2025,14,13310.13
+CUST00189,Jennifer Johnson,Negeri Sembilan,Q2-2025,25,10415.18
+CUST00189,Jennifer Johnson,Negeri Sembilan,Q3-2025,12,11318.69
+CUST00189,Jennifer Johnson,Negeri Sembilan,Q4-2025,8,10272.17
+CUST00190,Paula Boyd,,Q1-2025,11,14961.01
+CUST00190,Paula Boyd,Pahang,Q2-2025,0,7281.08
+CUST00190,Paula Boyd,Pahang,Q3-2025,,3137.51
+CUST00190,Paula Boyd,Pahang,Q4-2025,,11796.52
+CUST00191,Michael Parrish,Perlis,Q1-2025,12,7166.27
+CUST00191,Michael Parrish,Perlis,Q2-2025,20,9247.08
+CUST00191,Michael Parrish,Perlis,Q3-2025,17,8721.8
+CUST00191,Michael Parrish,Perlis,Q4-2025,20,2875.5
+CUST00192,James Williams,Sabah,Q1-2025,3,13721
+CUST00192,James Williams,Sabah,Q2-2025,7,10430.55
+CUST00192,James Williams,Sabah,Q3-2025,6,
+CUST00192,James Williams,Sabah,Q4-2025,8,13413.18
+CUST00193,Michele Nguyen,Perlis,Q1-2025,24,14504.13
+CUST00193,Michele Nguyen,Perlis,Q2-2025,,9208.94
+CUST00193,Michele Nguyen,Perlis,Q3-2025,22,4867.48
+CUST00193,,Perlis,Q4-2025,17,13307.77
+CUST00194,,Labuan,Q1-2025,21,13409.64
+CUST00194,Donna Hooper,Labuan,Q2-2025,6,2488.72
+CUST00194,Donna Hooper,Labuan,Q3-2025,9,4231.86
+CUST00194,Donna Hooper,Labuan,Q4-2025,16,6751.86
+CUST00195,Mrs. Brianna Phelps,Selangor,Q1-2025,13,6989.85
+CUST00195,Mrs. Brianna Phelps,Selangor,Q2-2025,0,10512.05
+CUST00195,Mrs. Brianna Phelps,Selangor,Q3-2025,25,2097.49
+CUST00195,Mrs. Brianna Phelps,Selangor,Q4-2025,5,11735.99
+CUST00196,Richard Munoz,Kedah,Q1-2025,24,7905.84
+CUST00196,,Kedah,Q2-2025,22,7362.27
+CUST00196,Richard Munoz,Kedah,Q3-2025,,10520.23
+CUST00196,Richard Munoz,,Q4-2025,20,1405
+CUST00197,Laura Phillips,Putrajaya,Q1-2025,10,14614.56
+CUST00197,Laura Phillips,Putrajaya,Q2-2025,,2871.71
+CUST00197,Laura Phillips,Putrajaya,Q3-2025,18,4715.54
+CUST00197,Laura Phillips,Putrajaya,Q4-2025,15,9854.94
+CUST00198,Bonnie Williams,Perlis,Q1-2025,13,12932.5
+CUST00198,Bonnie Williams,Perlis,Q2-2025,19,10181.51
+CUST00198,Bonnie Williams,Perlis,Q3-2025,22,1184.5
+CUST00198,Bonnie Williams,Perlis,Q4-2025,,11368.81
+CUST00199,Michael Barron,Sabah,Q1-2025,7,12915.15
+CUST00199,Michael Barron,Sabah,Q2-2025,25,12290.6
+CUST00199,Michael Barron,Sabah,Q3-2025,19,11067.6
+CUST00199,Michael Barron,Sabah,Q4-2025,0,6120.45
+CUST00200,Jill Morgan,Kedah,Q1-2025,7,9512.49
+CUST00200,Jill Morgan,,Q2-2025,8,6007.29
+CUST00200,,,Q3-2025,1,4823.31
+CUST00200,Jill Morgan,,Q4-2025,6,8832.45
+CUST00201,Michelle Erickson,Kuala Lumpur,Q1-2025,4,5180
+CUST00201,Michelle Erickson,Kuala Lumpur,Q2-2025,9,5785.36
+CUST00201,Michelle Erickson,Kuala Lumpur,Q3-2025,13,2635.6
+CUST00201,Michelle Erickson,Kuala Lumpur,Q4-2025,15,218.13
+CUST00202,Bradley Tucker,Sarawak,Q1-2025,,4235.62
+CUST00202,Bradley Tucker,Sarawak,Q2-2025,20,7060.15
+CUST00202,Bradley Tucker,Sarawak,Q3-2025,8,12402.89
+CUST00202,Bradley Tucker,Sarawak,Q4-2025,6,13814.69
+CUST00203,Jacob Hatfield,Kuala Lumpur,Q1-2025,19,12154.44
+CUST00203,Jacob Hatfield,Kuala Lumpur,Q2-2025,,107.6
+CUST00203,Jacob Hatfield,Kuala Lumpur,Q3-2025,23,8961.21
+CUST00203,Jacob Hatfield,Kuala Lumpur,Q4-2025,14,629.36
+CUST00204,Laura Moore,Penang,Q1-2025,19,14804.75
+CUST00204,,Penang,Q2-2025,16,4936.14
+CUST00204,Laura Moore,Penang,Q3-2025,24,11584.39
+CUST00204,Laura Moore,Penang,Q4-2025,0,5039.18
+CUST00205,,Perlis,Q1-2025,6,
+CUST00205,Kimberly Butler,Perlis,Q2-2025,8,13294.29
+CUST00205,Kimberly Butler,Perlis,Q3-2025,15,2122.78
+CUST00205,Kimberly Butler,Perlis,Q4-2025,6,
+CUST00206,Samantha Gilbert,Pahang,Q1-2025,0,11991.6
+CUST00206,Samantha Gilbert,Pahang,Q2-2025,3,13522.2
+CUST00206,Samantha Gilbert,Pahang,Q3-2025,23,9784.59
+CUST00206,Samantha Gilbert,Pahang,Q4-2025,7,6745.27
+CUST00207,Heather Simon,Terengganu,Q1-2025,0,9167.65
+CUST00207,Heather Simon,Terengganu,Q2-2025,7,1052.73
+CUST00207,Heather Simon,Terengganu,Q3-2025,11,10881.68
+CUST00207,Heather Simon,Terengganu,Q4-2025,25,6841.39
+CUST00208,Julie Fuller,Terengganu,Q1-2025,11,14838.9
+CUST00208,Julie Fuller,Terengganu,Q2-2025,3,4227.81
+CUST00208,Julie Fuller,Terengganu,Q3-2025,1,1902.68
+CUST00208,,Terengganu,Q4-2025,5,4935.04
+CUST00209,Tracy Ayala,Kedah,Q1-2025,4,
+CUST00209,Tracy Ayala,,Q2-2025,25,4325.46
+CUST00209,Tracy Ayala,Kedah,Q3-2025,4,12098.28
+CUST00209,Tracy Ayala,Kedah,Q4-2025,24,829.43
+CUST00210,April Bates,Negeri Sembilan,Q1-2025,16,3944.74
+CUST00210,April Bates,Negeri Sembilan,Q2-2025,20,14141.03
+CUST00210,April Bates,Negeri Sembilan,Q3-2025,16,12631.48
+CUST00210,April Bates,Negeri Sembilan,Q4-2025,14,2413.43
+CUST00211,Patty Mahoney,Kelantan,Q1-2025,25,7034.98
+CUST00211,Patty Mahoney,Kelantan,Q2-2025,12,92.2
+CUST00211,Patty Mahoney,Kelantan,Q3-2025,21,4417.48
+CUST00211,Patty Mahoney,Kelantan,Q4-2025,14,2367.3
+CUST00212,Tracy Silva,Terengganu,Q1-2025,7,1292.23
+CUST00212,Tracy Silva,Terengganu,Q2-2025,2,1550.57
+CUST00212,Tracy Silva,Terengganu,Q3-2025,20,7053.41
+CUST00212,Tracy Silva,Terengganu,Q4-2025,22,2478.57
+CUST00213,Michelle Schmidt,Terengganu,Q1-2025,23,7250.55
+CUST00213,Michelle Schmidt,Terengganu,Q2-2025,7,4515.01
+CUST00213,Michelle Schmidt,,Q3-2025,19,6168.38
+CUST00213,Michelle Schmidt,Terengganu,Q4-2025,8,7737.96
+CUST00214,Haley Robbins,Terengganu,Q1-2025,19,7237.51
+CUST00214,Haley Robbins,Terengganu,Q2-2025,7,
+CUST00214,Haley Robbins,Terengganu,Q3-2025,6,2030.34
+CUST00214,Haley Robbins,Terengganu,Q4-2025,,9015.99
+CUST00215,Jennifer Bean,Selangor,Q1-2025,2,12724.08
+CUST00215,Jennifer Bean,Selangor,Q2-2025,,
+CUST00215,Jennifer Bean,Selangor,Q3-2025,3,14984.03
+CUST00215,Jennifer Bean,Selangor,Q4-2025,9,2845.65
+CUST00216,Bill Parks,Perak,Q1-2025,9,3639.82
+CUST00216,Bill Parks,Perak,Q2-2025,23,11730.71
+CUST00216,Bill Parks,Perak,Q3-2025,16,9369.03
+CUST00216,Bill Parks,Perak,Q4-2025,16,3651.15
+CUST00217,Matthew Page,Pahang,Q1-2025,0,7996.61
+CUST00217,Matthew Page,Pahang,Q2-2025,25,14386.52
+CUST00217,Matthew Page,Pahang,Q3-2025,4,4979.52
+CUST00217,Matthew Page,Pahang,Q4-2025,25,1790.17
+CUST00218,Melinda Cooper,Labuan,Q1-2025,16,1290.97
+CUST00218,Melinda Cooper,Labuan,Q2-2025,1,11828.27
+CUST00218,Melinda Cooper,,Q3-2025,5,3835.62
+CUST00218,Melinda Cooper,Labuan,Q4-2025,22,1515.24
+CUST00219,Pamela Stewart,Perak,Q1-2025,14,13207.78
+CUST00219,Pamela Stewart,Perak,Q2-2025,13,8772.67
+CUST00219,Pamela Stewart,Perak,Q3-2025,10,1779.49
+CUST00219,,Perak,Q4-2025,15,11077.11
+CUST00220,Pamela Chambers,Negeri Sembilan,Q1-2025,13,10093.94
+CUST00220,Pamela Chambers,Negeri Sembilan,Q2-2025,16,7520.76
+CUST00220,Pamela Chambers,Negeri Sembilan,Q3-2025,20,1210.71
+CUST00220,Pamela Chambers,Negeri Sembilan,Q4-2025,9,3290.76
+CUST00221,Wesley Williams,Perlis,Q1-2025,23,7507.21
+CUST00221,Wesley Williams,Perlis,Q2-2025,8,8768.41
+CUST00221,Wesley Williams,Perlis,Q3-2025,21,12041.93
+CUST00221,Wesley Williams,Perlis,Q4-2025,11,6435.09
+CUST00222,Jason Gallegos,,Q1-2025,,5252.36
+CUST00222,Jason Gallegos,Terengganu,Q2-2025,19,12108.15
+CUST00222,Jason Gallegos,Terengganu,Q3-2025,2,10169.97
+CUST00222,Jason Gallegos,Terengganu,Q4-2025,22,5732.88
+CUST00223,Edward Robertson,Selangor,Q1-2025,14,1941.75
+CUST00223,Edward Robertson,Selangor,Q2-2025,5,3028
+CUST00223,Edward Robertson,Selangor,Q3-2025,11,7696.78
+CUST00223,Edward Robertson,Selangor,Q4-2025,23,3822.54
+CUST00224,,Perak,Q1-2025,0,6911.1
+CUST00224,Timothy Scott,Perak,Q2-2025,1,1442.59
+CUST00224,Timothy Scott,Perak,Q3-2025,24,57.48
+CUST00224,Timothy Scott,Perak,Q4-2025,15,421.11
+CUST00225,Larry Gordon,Kelantan,Q1-2025,17,3207.59
+CUST00225,Larry Gordon,Kelantan,Q2-2025,22,7958.78
+CUST00225,Larry Gordon,Kelantan,Q3-2025,21,446.06
+CUST00225,Larry Gordon,,Q4-2025,16,3595.04
+CUST00226,Robert Mason,,Q1-2025,8,9692.14
+CUST00226,Robert Mason,Kedah,Q2-2025,22,7287.79
+CUST00226,Robert Mason,Kedah,Q3-2025,6,1423.42
+CUST00226,Robert Mason,Kedah,Q4-2025,7,10726.13
+CUST00227,Luis Ali,Johor,Q1-2025,15,3712.48
+CUST00227,Luis Ali,,Q2-2025,20,12201.87
+CUST00227,,Johor,Q3-2025,13,4970.69
+CUST00227,,Johor,Q4-2025,7,3102.07
+CUST00228,Vanessa Cruz,Johor,Q1-2025,10,11594.89
+CUST00228,Vanessa Cruz,Johor,Q2-2025,11,6221.16
+CUST00228,Vanessa Cruz,Johor,Q3-2025,7,5503.74
+CUST00228,,Johor,Q4-2025,19,13488.48
+CUST00229,Juan Colon,Melaka,Q1-2025,3,6463.85
+CUST00229,Juan Colon,Melaka,Q2-2025,22,3251.78
+CUST00229,Juan Colon,Melaka,Q3-2025,16,6325.11
+CUST00229,Juan Colon,Melaka,Q4-2025,18,5434.57
+CUST00230,,Negeri Sembilan,Q1-2025,12,3710.91
+CUST00230,Mackenzie Lopez,Negeri Sembilan,Q2-2025,13,4674.7
+CUST00230,Mackenzie Lopez,Negeri Sembilan,Q3-2025,16,
+CUST00230,Mackenzie Lopez,Negeri Sembilan,Q4-2025,0,5930.07
+CUST00231,Jennifer Rodgers,Perak,Q1-2025,24,7282.36
+CUST00231,Jennifer Rodgers,Perak,Q2-2025,11,4298.22
+CUST00231,Jennifer Rodgers,Perak,Q3-2025,24,9425.34
+CUST00231,,Perak,Q4-2025,4,10071.69
+CUST00232,Fernando Taylor,Kedah,Q1-2025,10,5327.13
+CUST00232,Fernando Taylor,Kedah,Q2-2025,6,2930.63
+CUST00232,Fernando Taylor,Kedah,Q3-2025,24,
+CUST00232,Fernando Taylor,Kedah,Q4-2025,0,12423.87
+CUST00233,William Mathis,Selangor,Q1-2025,5,9884.42
+CUST00233,William Mathis,Selangor,Q2-2025,15,7792.28
+CUST00233,William Mathis,Selangor,Q3-2025,15,8376.08
+CUST00233,William Mathis,Selangor,Q4-2025,18,4933.39
+CUST00234,,Sabah,Q1-2025,11,10881.22
+CUST00234,Jill Arnold,Sabah,Q2-2025,9,12318.88
+CUST00234,Jill Arnold,Sabah,Q3-2025,8,10433.32
+CUST00234,Jill Arnold,Sabah,Q4-2025,,10092.56
+CUST00235,Maria Romero,Selangor,Q1-2025,,14163.02
+CUST00235,Maria Romero,Selangor,Q2-2025,23,7133.83
+CUST00235,Maria Romero,Selangor,Q3-2025,13,6611.16
+CUST00235,Maria Romero,Selangor,Q4-2025,22,6975.1
+CUST00236,Jessica Holmes,Pahang,Q1-2025,25,8554.87
+CUST00236,Jessica Holmes,Pahang,Q2-2025,12,8080.65
+CUST00236,Jessica Holmes,Pahang,Q3-2025,22,11275.57
+CUST00236,Jessica Holmes,Pahang,Q4-2025,0,824.64
+CUST00237,Kathleen Thomas,Kuala Lumpur,Q1-2025,19,5382.87
+CUST00237,Kathleen Thomas,Kuala Lumpur,Q2-2025,15,2744.95
+CUST00237,Kathleen Thomas,Kuala Lumpur,Q3-2025,4,959.66
+CUST00237,Kathleen Thomas,Kuala Lumpur,Q4-2025,17,682.29
+CUST00238,Anna Jones,Sarawak,Q1-2025,24,13182.45
+CUST00238,Anna Jones,Sarawak,Q2-2025,22,798.15
+CUST00238,Anna Jones,Sarawak,Q3-2025,11,4094.82
+CUST00238,Anna Jones,Sarawak,Q4-2025,18,11328.01
+CUST00239,Anthony Coleman,Perlis,Q1-2025,3,13912.6
+CUST00239,,Perlis,Q2-2025,9,14071.66
+CUST00239,,Perlis,Q3-2025,5,6255.31
+CUST00239,Anthony Coleman,Perlis,Q4-2025,,556.67
+CUST00240,Donald Pierce,Perlis,Q1-2025,16,443.67
+CUST00240,Donald Pierce,Perlis,Q2-2025,11,13515.87
+CUST00240,Donald Pierce,,Q3-2025,9,13744.71
+CUST00240,Donald Pierce,Perlis,Q4-2025,16,11373.32
+CUST00241,Zachary Robinson,Perak,Q1-2025,8,14249.9
+CUST00241,Zachary Robinson,Perak,Q2-2025,9,1610.56
+CUST00241,Zachary Robinson,Perak,Q3-2025,15,6062.8
+CUST00241,Zachary Robinson,Perak,Q4-2025,25,2169.26
+CUST00242,Ashlee Torres,Pahang,Q1-2025,9,1416.1
+CUST00242,Ashlee Torres,Pahang,Q2-2025,13,13593.85
+CUST00242,Ashlee Torres,Pahang,Q3-2025,19,10156.36
+CUST00242,,,Q4-2025,17,5099.15
+CUST00243,Lindsey Cervantes,,Q1-2025,21,
+CUST00243,Lindsey Cervantes,Negeri Sembilan,Q2-2025,15,5286.99
+CUST00243,Lindsey Cervantes,Negeri Sembilan,Q3-2025,20,1928.6
+CUST00243,Lindsey Cervantes,Negeri Sembilan,Q4-2025,17,
+CUST00244,Christopher Padilla,Pahang,Q1-2025,19,8031.47
+CUST00244,Christopher Padilla,Pahang,Q2-2025,15,2217.47
+CUST00244,Christopher Padilla,Pahang,Q3-2025,0,10756.1
+CUST00244,Christopher Padilla,Pahang,Q4-2025,24,46.81
+CUST00245,Joseph Williams,Penang,Q1-2025,15,14015.96
+CUST00245,,Penang,Q2-2025,3,5103.34
+CUST00245,,Penang,Q3-2025,1,13212.59
+CUST00245,Joseph Williams,Penang,Q4-2025,2,12525.34
+CUST00246,Monica Barrett,Selangor,Q1-2025,18,6671.52
+CUST00246,Monica Barrett,Selangor,Q2-2025,24,2074.2
+CUST00246,Monica Barrett,Selangor,Q3-2025,25,4072.2
+CUST00246,Monica Barrett,Selangor,Q4-2025,18,8339.22
+CUST00247,Jeffrey Erickson,Terengganu,Q1-2025,22,6623.53
+CUST00247,Jeffrey Erickson,Terengganu,Q2-2025,21,7406.97
+CUST00247,Jeffrey Erickson,Terengganu,Q3-2025,17,6745.22
+CUST00247,Jeffrey Erickson,Terengganu,Q4-2025,15,13095.59
+CUST00248,James Smith,Perlis,Q1-2025,2,13021.74
+CUST00248,James Smith,Perlis,Q2-2025,11,
+CUST00248,James Smith,Perlis,Q3-2025,19,14426.58
+CUST00248,James Smith,Perlis,Q4-2025,1,5228.23
+CUST00249,Jennifer Bowman,,Q1-2025,15,8185.84
+CUST00249,Jennifer Bowman,Sabah,Q2-2025,20,13514.55
+CUST00249,Jennifer Bowman,Sabah,Q3-2025,17,10047.21
+CUST00249,Jennifer Bowman,Sabah,Q4-2025,17,7737.53
+CUST00250,Deanna Nunez,Terengganu,Q1-2025,17,12197.81
+CUST00250,Deanna Nunez,Terengganu,Q2-2025,20,
+CUST00250,Deanna Nunez,Terengganu,Q3-2025,19,9735.63
+CUST00250,Deanna Nunez,Terengganu,Q4-2025,14,3809.95
+CUST00251,Edward Stewart,Terengganu,Q1-2025,15,13053.21
+CUST00251,Edward Stewart,Terengganu,Q2-2025,16,12262.11
+CUST00251,Edward Stewart,,Q3-2025,1,1044.87
+CUST00251,Edward Stewart,Terengganu,Q4-2025,8,5182.32
+CUST00252,Karen Rice MD,Perlis,Q1-2025,25,6656.17
+CUST00252,Karen Rice MD,Perlis,Q2-2025,25,8684.27
+CUST00252,Karen Rice MD,Perlis,Q3-2025,19,610.54
+CUST00252,Karen Rice MD,Perlis,Q4-2025,7,13758.96
+CUST00253,Jason Bridges,Penang,Q1-2025,0,8848.04
+CUST00253,Jason Bridges,Penang,Q2-2025,3,14906.66
+CUST00253,Jason Bridges,Penang,Q3-2025,3,8683.04
+CUST00253,Jason Bridges,Penang,Q4-2025,1,5849.67
+CUST00254,Kyle Jones,Johor,Q1-2025,15,11251
+CUST00254,Kyle Jones,Johor,Q2-2025,7,2724.33
+CUST00254,Kyle Jones,Johor,Q3-2025,16,1187.15
+CUST00254,Kyle Jones,Johor,Q4-2025,10,13964.67
+CUST00255,Nicholas Hernandez,Sabah,Q1-2025,22,10007.64
+CUST00255,Nicholas Hernandez,Sabah,Q2-2025,16,8391.03
+CUST00255,Nicholas Hernandez,Sabah,Q3-2025,9,4785.04
+CUST00255,Nicholas Hernandez,Sabah,Q4-2025,9,6536.09
+CUST00256,Mary Kaiser,Kuala Lumpur,Q1-2025,11,1590.06
+CUST00256,Mary Kaiser,Kuala Lumpur,Q2-2025,8,6540.54
+CUST00256,Mary Kaiser,Kuala Lumpur,Q3-2025,4,
+CUST00256,Mary Kaiser,Kuala Lumpur,Q4-2025,20,3569.95
+CUST00257,Angela Phillips,Sabah,Q1-2025,5,6124.09
+CUST00257,Angela Phillips,Sabah,Q2-2025,22,4789.75
+CUST00257,Angela Phillips,Sabah,Q3-2025,15,12025.43
+CUST00257,Angela Phillips,Sabah,Q4-2025,0,13599.9
+CUST00258,Robert Martin,Kuala Lumpur,Q1-2025,21,38.96
+CUST00258,Robert Martin,Kuala Lumpur,Q2-2025,15,9196.03
+CUST00258,Robert Martin,Kuala Lumpur,Q3-2025,12,9094.68
+CUST00258,Robert Martin,Kuala Lumpur,Q4-2025,12,13426
+CUST00259,Eric Foster,Kedah,Q1-2025,22,1073.23
+CUST00259,Eric Foster,Kedah,Q2-2025,11,7204.94
+CUST00259,Eric Foster,Kedah,Q3-2025,15,10268.04
+CUST00259,Eric Foster,Kedah,Q4-2025,13,10904.28
+CUST00260,Gloria Peters,Johor,Q1-2025,25,8852.27
+CUST00260,Gloria Peters,Johor,Q2-2025,7,6812.07
+CUST00260,Gloria Peters,Johor,Q3-2025,23,2583.13
+CUST00260,Gloria Peters,Johor,Q4-2025,2,4224.67
+CUST00261,John Jensen,Perak,Q1-2025,23,5268.99
+CUST00261,John Jensen,Perak,Q2-2025,14,366.86
+CUST00261,John Jensen,Perak,Q3-2025,6,11745.67
+CUST00261,John Jensen,Perak,Q4-2025,7,11567.7
+CUST00262,Rebecca Taylor MD,,Q1-2025,10,13560.18
+CUST00262,Rebecca Taylor MD,Pahang,Q2-2025,0,2060.16
+CUST00262,Rebecca Taylor MD,Pahang,Q3-2025,19,9519.88
+CUST00262,Rebecca Taylor MD,Pahang,Q4-2025,5,5017.08
+CUST00263,Melanie Roy,Putrajaya,Q1-2025,3,7358.76
+CUST00263,Melanie Roy,Putrajaya,Q2-2025,2,11520.97
+CUST00263,Melanie Roy,Putrajaya,Q3-2025,2,9771.3
+CUST00263,Melanie Roy,Putrajaya,Q4-2025,8,14071.8
+CUST00264,Brooke Bender,Johor,Q1-2025,8,3224.78
+CUST00264,Brooke Bender,Johor,Q2-2025,19,
+CUST00264,Brooke Bender,Johor,Q3-2025,23,10135.52
+CUST00264,Brooke Bender,Johor,Q4-2025,0,2136.73
+CUST00265,Christine Walsh,Pahang,Q1-2025,,2451.73
+CUST00265,,Pahang,Q2-2025,17,10263.96
+CUST00265,Christine Walsh,Pahang,Q3-2025,25,3272.97
+CUST00265,Christine Walsh,Pahang,Q4-2025,,1565.84
+CUST00266,Alexandra Fuller,Selangor,Q1-2025,4,2842.61
+CUST00266,,Selangor,Q2-2025,17,9586.21
+CUST00266,Alexandra Fuller,Selangor,Q3-2025,5,9638.6
+CUST00266,Alexandra Fuller,Selangor,Q4-2025,12,8486.36
+CUST00267,Pamela Perry,Pahang,Q1-2025,0,4443.61
+CUST00267,Pamela Perry,Pahang,Q2-2025,15,8325.41
+CUST00267,Pamela Perry,Pahang,Q3-2025,17,9485.08
+CUST00267,Pamela Perry,,Q4-2025,20,4086.26
+CUST00268,Andrew Brown,Putrajaya,Q1-2025,0,12774.33
+CUST00268,Andrew Brown,Putrajaya,Q2-2025,3,5997.64
+CUST00268,Andrew Brown,,Q3-2025,14,14046.86
+CUST00268,Andrew Brown,Putrajaya,Q4-2025,3,2233.43
+CUST00269,Mario Wilson,Sabah,Q1-2025,8,7334.3
+CUST00269,Mario Wilson,Sabah,Q2-2025,14,13005.55
+CUST00269,Mario Wilson,Sabah,Q3-2025,5,1178.69
+CUST00269,Mario Wilson,Sabah,Q4-2025,5,12303.88
+CUST00270,,Melaka,Q1-2025,3,10253.37
+CUST00270,Christina Riley,Melaka,Q2-2025,13,12688.95
+CUST00270,Christina Riley,Melaka,Q3-2025,2,5012.11
+CUST00270,Christina Riley,Melaka,Q4-2025,16,12096.4
+CUST00271,Jacob Aguilar,Perlis,Q1-2025,0,6198.82
+CUST00271,Jacob Aguilar,Perlis,Q2-2025,21,6208.03
+CUST00271,Jacob Aguilar,Perlis,Q3-2025,24,4572.76
+CUST00271,Jacob Aguilar,Perlis,Q4-2025,19,1808.03
+CUST00272,Alicia Johnson,Pahang,Q1-2025,22,1552.84
+CUST00272,Alicia Johnson,Pahang,Q2-2025,23,14556.32
+CUST00272,Alicia Johnson,Pahang,Q3-2025,21,127.41
+CUST00272,Alicia Johnson,Pahang,Q4-2025,5,12466.91
+CUST00273,James Burns,Sarawak,Q1-2025,17,10197.47
+CUST00273,James Burns,Sarawak,Q2-2025,9,3512.18
+CUST00273,James Burns,Sarawak,Q3-2025,24,2755.71
+CUST00273,James Burns,Sarawak,Q4-2025,25,4042.89
+CUST00274,Mrs. Sandra Wright,Melaka,Q1-2025,22,6130.06
+CUST00274,Mrs. Sandra Wright,Melaka,Q2-2025,17,13830
+CUST00274,Mrs. Sandra Wright,Melaka,Q3-2025,23,12055.01
+CUST00274,Mrs. Sandra Wright,Melaka,Q4-2025,20,9409.66
+CUST00275,Meghan Hall,Selangor,Q1-2025,,11472.32
+CUST00275,Meghan Hall,Selangor,Q2-2025,5,14371.37
+CUST00275,Meghan Hall,Selangor,Q3-2025,13,2862.33
+CUST00275,Meghan Hall,Selangor,Q4-2025,11,7427.67
+CUST00276,Rebecca Curry,Terengganu,Q1-2025,20,1270.31
+CUST00276,Rebecca Curry,Terengganu,Q2-2025,12,
+CUST00276,Rebecca Curry,Terengganu,Q3-2025,23,8000.26
+CUST00276,Rebecca Curry,Terengganu,Q4-2025,20,10027.83
+CUST00277,Roberta Larson,Perlis,Q1-2025,19,5322.38
+CUST00277,Roberta Larson,Perlis,Q2-2025,12,8841.15
+CUST00277,Roberta Larson,Perlis,Q3-2025,22,3825.62
+CUST00277,Roberta Larson,Perlis,Q4-2025,3,6609.53
+CUST00278,Jackie Pearson,Perak,Q1-2025,17,
+CUST00278,Jackie Pearson,Perak,Q2-2025,7,13158.6
+CUST00278,Jackie Pearson,Perak,Q3-2025,2,5442.09
+CUST00278,Jackie Pearson,Perak,Q4-2025,19,3902.72
+CUST00279,Melissa Peters,Perlis,Q1-2025,20,6828.91
+CUST00279,Melissa Peters,Perlis,Q2-2025,11,4499.48
+CUST00279,Melissa Peters,Perlis,Q3-2025,6,11365.49
+CUST00279,Melissa Peters,Perlis,Q4-2025,0,5367.49
+CUST00280,Micheal Gomez,Johor,Q1-2025,17,3587.09
+CUST00280,Micheal Gomez,Johor,Q2-2025,11,9139.79
+CUST00280,,Johor,Q3-2025,3,13059.15
+CUST00280,Micheal Gomez,Johor,Q4-2025,17,5042.52
+CUST00281,,Kelantan,Q1-2025,6,6885.84
+CUST00281,Douglas Pennington,Kelantan,Q2-2025,2,3446.16
+CUST00281,Douglas Pennington,Kelantan,Q3-2025,22,800.06
+CUST00281,Douglas Pennington,Kelantan,Q4-2025,11,1925.94
+CUST00282,Linda Freeman,Selangor,Q1-2025,16,2289.29
+CUST00282,Linda Freeman,Selangor,Q2-2025,11,7931.77
+CUST00282,Linda Freeman,Selangor,Q3-2025,5,7915.7
+CUST00282,Linda Freeman,Selangor,Q4-2025,6,12952.62
+CUST00283,Sharon Hamilton,Sabah,Q1-2025,14,1579.85
+CUST00283,Sharon Hamilton,Sabah,Q2-2025,9,12964.06
+CUST00283,Sharon Hamilton,Sabah,Q3-2025,9,5357.36
+CUST00283,Sharon Hamilton,Sabah,Q4-2025,14,11164.37
+CUST00284,Anna Brown,Johor,Q1-2025,12,4209.35
+CUST00284,Anna Brown,Johor,Q2-2025,1,7913.62
+CUST00284,Anna Brown,Johor,Q3-2025,10,7670.26
+CUST00284,Anna Brown,Johor,Q4-2025,19,4803.9
+CUST00285,Jennifer Wilson,Perak,Q1-2025,0,4892.88
+CUST00285,Jennifer Wilson,Perak,Q2-2025,20,9880.22
+CUST00285,Jennifer Wilson,Perak,Q3-2025,15,5761.82
+CUST00285,Jennifer Wilson,Perak,Q4-2025,2,9564.22
+CUST00286,Dennis Gonzalez,Selangor,Q1-2025,20,12925.03
+CUST00286,Dennis Gonzalez,Selangor,Q2-2025,14,13184.41
+CUST00286,Dennis Gonzalez,Selangor,Q3-2025,5,3969.81
+CUST00286,Dennis Gonzalez,Selangor,Q4-2025,25,829.1
+CUST00287,,Kedah,Q1-2025,17,4101.74
+CUST00287,Katherine Hill,Kedah,Q2-2025,16,5432.81
+CUST00287,Katherine Hill,Kedah,Q3-2025,19,8275.95
+CUST00287,Katherine Hill,Kedah,Q4-2025,22,9816.89
+CUST00288,Brian Dyer,Kelantan,Q1-2025,21,6624.04
+CUST00288,Brian Dyer,Kelantan,Q2-2025,10,11757.95
+CUST00288,Brian Dyer,Kelantan,Q3-2025,14,6687.69
+CUST00288,Brian Dyer,Kelantan,Q4-2025,25,
+CUST00289,Lance Frederick,Kedah,Q1-2025,12,4691.48
+CUST00289,Lance Frederick,Kedah,Q2-2025,0,6386.59
+CUST00289,Lance Frederick,Kedah,Q3-2025,10,9289.55
+CUST00289,Lance Frederick,Kedah,Q4-2025,4,
+CUST00290,Duane Brown,Negeri Sembilan,Q1-2025,9,8106.19
+CUST00290,Duane Brown,Negeri Sembilan,Q2-2025,9,9057.11
+CUST00290,Duane Brown,Negeri Sembilan,Q3-2025,11,12421.88
+CUST00290,Duane Brown,Negeri Sembilan,Q4-2025,10,9235.16
+CUST00291,Cynthia Murphy,Melaka,Q1-2025,3,4836.86
+CUST00291,Cynthia Murphy,Melaka,Q2-2025,25,5153.27
+CUST00291,Cynthia Murphy,Melaka,Q3-2025,2,10529.83
+CUST00291,Cynthia Murphy,Melaka,Q4-2025,23,4206.39
+CUST00292,Alexis Richardson,Terengganu,Q1-2025,6,14337.23
+CUST00292,Alexis Richardson,Terengganu,Q2-2025,20,11051
+CUST00292,Alexis Richardson,Terengganu,Q3-2025,17,9922.62
+CUST00292,Alexis Richardson,Terengganu,Q4-2025,23,1012.41
+CUST00293,Edward Rivera,Pahang,Q1-2025,20,6562.1
+CUST00293,Edward Rivera,Pahang,Q2-2025,4,14219.82
+CUST00293,Edward Rivera,Pahang,Q3-2025,0,734.25
+CUST00293,Edward Rivera,Pahang,Q4-2025,9,5121.52
+CUST00294,Randall Jenkins,Labuan,Q1-2025,,11216.33
+CUST00294,Randall Jenkins,Labuan,Q2-2025,18,8380.61
+CUST00294,Randall Jenkins,Labuan,Q3-2025,5,12631.07
+CUST00294,Randall Jenkins,Labuan,Q4-2025,14,12730.94
+CUST00295,Nicholas Elliott,Penang,Q1-2025,14,1724.85
+CUST00295,Nicholas Elliott,Penang,Q2-2025,6,5744.27
+CUST00295,Nicholas Elliott,Penang,Q3-2025,13,
+CUST00295,Nicholas Elliott,Penang,Q4-2025,22,
+CUST00296,Tasha Reyes,Selangor,Q1-2025,13,6693.87
+CUST00296,Tasha Reyes,Selangor,Q2-2025,0,12783.28
+CUST00296,Tasha Reyes,Selangor,Q3-2025,2,12827.52
+CUST00296,Tasha Reyes,Selangor,Q4-2025,6,1109.75
+CUST00297,Jennifer Richmond,Putrajaya,Q1-2025,6,14042.15
+CUST00297,Jennifer Richmond,Putrajaya,Q2-2025,12,12337.39
+CUST00297,Jennifer Richmond,Putrajaya,Q3-2025,25,5191.52
+CUST00297,Jennifer Richmond,Putrajaya,Q4-2025,19,6271.58
+CUST00298,Philip Macdonald,Perlis,Q1-2025,3,1043.77
+CUST00298,Philip Macdonald,Perlis,Q2-2025,5,2657.12
+CUST00298,Philip Macdonald,Perlis,Q3-2025,18,14538.45
+CUST00298,Philip Macdonald,Perlis,Q4-2025,18,5303.72
+CUST00299,Jasmine Mahoney,Kelantan,Q1-2025,16,7388.14
+CUST00299,Jasmine Mahoney,Kelantan,Q2-2025,18,13893.54
+CUST00299,Jasmine Mahoney,Kelantan,Q3-2025,13,12823.8
+CUST00299,Jasmine Mahoney,Kelantan,Q4-2025,15,3257.41
+CUST00300,,Perak,Q1-2025,22,7627.14
+CUST00300,Michael Bruce,Perak,Q2-2025,12,7393.43
+CUST00300,Michael Bruce,,Q3-2025,4,12473.29
+CUST00300,Michael Bruce,Perak,Q4-2025,,5809.52
+CUST00300,KY,KL,Q1-2025,22,7627.14
+,,,,,
+CUST00300,KY,KL,Q3-2025,4,12473.29
+CUST00300,KY,KL,Q4-2025,,5809.52
